@@ -1,12 +1,10 @@
 # Calculadora Dinâmica
 
-Exercicios DANKI CODE
+Exercícios DANKI CODE
 
-Aplicação calculadora dinâmica
+Aplicação Calculadora Dinâmica
 
--Queremos um número inicial
--Queremos um sinal (tipo de operação)
--Queremos um número final
+Número inicial, sinal (tipo de operação), número final.
 
 ======================================================================
 
